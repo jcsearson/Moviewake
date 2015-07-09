@@ -1,3 +1,5 @@
+![MovieWake Screenshot](http://i.imgur.com/YKhY3YK.png)
+
 # Movie Database
 
 This was designed for intent of use with MovieWake.com, a database where "above average" films can be archived.
